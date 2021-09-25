@@ -1,0 +1,7 @@
+///danh sach nhan vien///
+var listNhanVien = [
+  {name: 'Vân', age: 22},
+  {name: 'Khanh', age: 24},
+  {name: 'Hoang', age: 22},
+];
+
